@@ -1,1 +1,1 @@
-# Deep CNN Clasifier
+# Deep Classifier project
